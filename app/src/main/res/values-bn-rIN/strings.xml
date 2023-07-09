@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageChange</string>
+    <string name="textchange">এটি এমন একটি পাঠ্য যা ভাষা পরিবর্তন করলে পরিবর্তন হবে, তাই ম্যানুয়ালি ভাষা পরিবর্তন করার চেষ্টা করুন \n
+    এবং হিন্দি বা ইংরেজিতে আবার পরীক্ষা করুন</string>
+    <string name="this_is_fragment_a_fragment_a_come_after_click_dashboard_click">ক্লিন কোড সবসময় মনে হয় যে এটি যত্নশীল কেউ লিখেছেন।</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageChange</string>
+    <string name="textchange">यह वह पाठ है जो भाषा बदलने पर बदल जाएगा, इसलिए भाषा को मैन्युअल रूप से बदलने का प्रयास करें\n
+    और इसे फिर से हिंदी या अंग्रेजी में परीक्षण करें</string>
+    <string name="this_is_fragment_a_fragment_a_come_after_click_dashboard_click">स्वच्छ कोड हमेशा ऐसा दिखता है जैसे यह किसी ऐसे व्यक्ति द्वारा लिखा गया हो जिसे इसकी परवाह है।</string>
+</resources>

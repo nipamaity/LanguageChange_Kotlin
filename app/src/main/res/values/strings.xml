@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LanguageChange</string>
+
+    <string name="textchange">This is text which will change on change language , so try to change language manually\n
+    And test it again in hindi or english</string>
+    <string name="this_is_fragment_a_fragment_a_come_after_click_dashboard_click">Clean code always looks like it was written by someone who cares. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

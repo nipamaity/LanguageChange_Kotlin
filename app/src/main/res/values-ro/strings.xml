@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageChange</string>
+    <string name="textchange">Acesta este un text care se va schimba la schimbarea limbii, așa că încercați să schimbați limba manual\n
+    Și testați-l din nou în hindi sau engleză</string>
+    <string name="this_is_fragment_a_fragment_a_come_after_click_dashboard_click">
+Codul curat pare întotdeauna scris de cineva căruia îi pasă.</string>
+</resources>
